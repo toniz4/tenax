@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "YAAJ_WeAct_BlackPill_Part_Like")(type "Legacy")(uri "${KIPRJMOD}/lib/YAAJ_WeAct_BlackPill_Part_Like.lib")(options "")(descr ""))
+)
