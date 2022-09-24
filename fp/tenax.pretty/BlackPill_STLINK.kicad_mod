@@ -16,6 +16,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 96e8e2b8-33fb-4ab7-b856-5039402beeca)
   )
+  (fp_rect (start 5 -26.5) (end -5 -16.5) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 35cf79ab-61d7-43fc-a22e-72dd8964eed9))
   (fp_line (start -10.6 -26.7) (end -10.6 26.7) (layer "F.CrtYd") (width 0.05) (tstamp 6391d1c7-f9bf-4d3b-a5cd-58efbcd7c9de))
   (fp_line (start 10.6 -26.7) (end -10.6 -26.7) (layer "F.CrtYd") (width 0.05) (tstamp 64f886b1-f162-4a3c-9ba2-420c2514f979))
   (fp_line (start -10.6 26.7) (end 10.6 26.7) (layer "F.CrtYd") (width 0.05) (tstamp 748821c2-cd57-447d-9e21-e014e2ec2536))
