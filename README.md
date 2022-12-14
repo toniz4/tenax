@@ -35,9 +35,9 @@ Tenax is a direct pin/diodeless split keyboard, based on the Blackpill dev board
 | Hotswap sockets | 36 | [Kailh Hotswap sockets](https://pt.aliexpress.com/item/4001051840976.html?spm=a2g0o.productlist.0.0.7e7d102dksVouM&algo_pvid=f8ac102a-3094-4209-a7b8-de68258d8b90&algo_exp_id=f8ac102a-3094-4209-a7b8-de68258d8b90-0&pdp_ext_f=%7B%22sku_id%22%3A%2210000013817160772%22%7D&pdp_npi=2%40dis%21BRL%2143.49%2143.49%21%21%21%21%21%40210318be16643268610471545ec83d%2110000013817160772%21sea&curPageLogUid=CIiwMxT5yDeo) |
 | Switches | 36 | Any MX compatible switch will work |
 
-## Build Gide
+## Build Guide
 
-I'm too lazy to create a build gide, but the cantor keyboard build is similar, so it can
+I'm too lazy to create a build guide, but the cantor keyboard build is similar, so it can
 be used as reference, together with the hotswap sockets part on the corne guide.
 
 - [Cantor guide](https://github.com/diepala/cantor/blob/main/doc/build_guide.md)
